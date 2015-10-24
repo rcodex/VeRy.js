@@ -130,4 +130,4 @@ These are usefull method of this javascript library you can do easily everything
 
 VeRy.js can fill your all basic requirement, of javascript library. It's a small and powerfull solution to boost up you code using vanila.js and core javascript
 
-For More Information And Best Practice : http://veryjs.org/VeRy_js-documentation.pdf
+For More Information And Best Practice : http://veryjs.org/
